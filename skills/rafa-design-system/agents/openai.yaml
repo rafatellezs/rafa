@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rafa Design System"
+  short_description: "Aplica el sistema editorial personal de Rafa"
+  default_prompt: "Usa $rafa-design-system para crear este entregable con la estructura editorial y visual de Rafa."
