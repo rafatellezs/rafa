@@ -1,0 +1,11 @@
+{
+  "name": "rafa",
+  "owner": { "name": "Rafael Téllez" },
+  "plugins": [
+    {
+      "name": "toro-contexto",
+      "source": "./mods/toro-contexto",
+      "description": "Toro de Osborne que avanza por contexto y ventana de 5h, con caché, tokens y resumen de continuidad."
+    }
+  ]
+}
